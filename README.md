@@ -1,0 +1,1 @@
+# allegro-olx-manager
